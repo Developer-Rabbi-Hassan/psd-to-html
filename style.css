@@ -1,0 +1,125 @@
+body {
+    width: 95%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.bg1 {
+    background-image: url(/pics/BG.png);
+    height: 740px;
+    width: auto;
+    position: relative;
+
+}
+
+.f1 {
+    position: absolute;
+    top: 35%;
+    bottom: 55%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 10px;
+}
+
+.f2 {
+    letter-spacing: 7px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.button1 {
+    margin: 0 auto;
+    display: block;
+}
+
+.iphone1 {
+    height: 430px;
+    overflow-y: hidden;
+}
+
+.iphone {
+    width: 100%;
+
+}
+
+.slide1 {
+    margin-top: 80px;
+}
+
+.text {
+    top: 40%;
+    margin: auto;
+}
+
+.sec {
+    height: 410px;
+    overflow-y: hidden;
+}
+
+.sec2 {
+    margin-top: 85px;
+    /* height: 400px; */
+}
+
+.bg2 {
+    height: 100vh;
+    background-image: url(/pics/Livello\ 3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: block;
+}
+
+.email {
+    position: absolute;
+    text-align: center;
+    height: 100px;
+    width: 60%;
+    top: 50%;
+    left: 20%;
+    margin: auto;
+}
+
+.input {
+    width: 50%;
+    height: 50px;
+}
+
+.input2 {
+    height: 50px;
+}
+
+.download {
+    margin-top: 90px;
+}
+
+.download-text {
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+footer {
+    margin: 10%;
+
+}
+
+.img {
+    float: right;
+}
+
+.carousel-img {
+    width: 75%;
+}
+
+.icon {
+    width: 20%;
+    margin-bottom: 10%;
+}
