@@ -6,7 +6,7 @@ body {
 }
 
 .bg1 {
-    background-image: url(/pics/BG.png);
+    background-image: url(BG.png);
     height: 740px;
     width: auto;
     position: relative;
@@ -67,7 +67,7 @@ body {
 
 .bg2 {
     height: 100vh;
-    background-image: url(/pics/Livello\ 3.png);
+    background-image: url(Livello\ 3.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
